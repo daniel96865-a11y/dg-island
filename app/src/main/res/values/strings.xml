@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DG Island</string>
+    <string name="a11y_desc">DG Island nutzt die Bedienungshilfe nur, um die Insel oben über der Statusleiste anzuzeigen. Es werden keine Bildschirminhalte gelesen oder gespeichert.</string>
+</resources>
